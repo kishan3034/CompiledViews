@@ -1,0 +1,27 @@
+C:\Users\kishankasyap.anem\Documents\GitHub\Mvc\src\Microsoft.AspNetCore.Mvc.Razor\Internal\RazorViewCompiler.cs at line 345
+
+{n1d2gtbn.egl, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null}
+    CodeBase: "file:///C:/Program Files/dotnet/shared/Microsoft.NETCore.App/2.0.5/System.Private.CoreLib.dll"
+    CustomAttributes: Count = 5
+    DefinedTypes: {System.RuntimeType[2]}
+    EntryPoint: null
+    EscapedCodeBase: "file:///C:/Program%20Files/dotnet/shared/Microsoft.NETCore.App/2.0.5/System.Private.CoreLib.dll"
+    ExportedTypes: {System.Type[1]}
+    Flags: 50331648
+    FullName: "n1d2gtbn.egl, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    GlobalAssemblyCache: false
+    HostContext: 0
+    ImageRuntimeVersion: "v4.0.30319"
+    IsDynamic: false
+    IsFullyTrusted: true
+    Location: ""
+    ManifestModule: {n1d2gtbn.egl.dll}
+    Modules: {System.Reflection.RuntimeModule[1]}
+    ReflectionOnly: false
+    SecurityRuleSet: None
+    SyncRoot: {object}
+    _ModuleResolve: null
+    m_assembly: {2265675258592}
+    m_flags: 50331648
+    m_fullname: "n1d2gtbn.egl, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+    m_syncRoot: {object}
